@@ -48,7 +48,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lindomarfarineli&theme=transparent&bg_color=000&border_color=ffc52d&show_icons=true&icon_color=0059D6&title_color=0059D6&text_color=e94d5f)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lindomarfarineli&layout=compact&bg_color=000&border_color=ffc52d&title_color=0059D6&text_color=FFF)
+![Top Langs](https://github-readme-stats-eta-three-35.vercel.app/api/top-langs/?username=lindomarfarineli&layout=compact&bg_color=000&border_color=ffc52d&title_color=0059D6&text_color=FFF)
 
 ### Main Projects
 
